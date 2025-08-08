@@ -1,0 +1,15 @@
+streamlit
+request
+pytube
+ifaddr 
+pyee 
+google-crc32c 
+dnspython 
+av 
+pylibsrtp 
+cryptography 
+aioice 
+pyopenssl 
+aiortc
+streamlit-webrtc
+// ultralytics flask flask-cors pyngrok yt_dlp ffmpeg-python
