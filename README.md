@@ -52,7 +52,7 @@ Client (Streamlit)  <----HTTP/WebRTC---->  Server (Colab / local)
 
 ### **Bước 1 — Clone repo về máy**
 ```bash
-git clone https://github.com/<your_repo>.git
+git clone https://github.com/ThanhDangKim/Yolov8-Object-Detection.git
 ```
 
 ### 📍 **Bước 2 — Chạy server**
