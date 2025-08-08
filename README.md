@@ -63,9 +63,9 @@ git clone https://github.com/ThanhDangKim/Yolov8-Object-Detection.git
 
 1. Upload file server notebooks (notebook .ipynb chứa code server) lên Colab.
 2. Mở notebook server trên Colab và chạy từng cell từ đầu tới cuối cho đến khi:
-- Cài đặt thư viện xong
-- Model YOLO được tải 
-- Flask app được khởi chạy và ngrok xuất ra public URL 
+    - Cài đặt thư viện xong
+    - Model YOLO được tải 
+    - Flask app được khởi chạy và ngrok xuất ra public URL 
 3. Sao chép đường dẫn ngrok (ví dụ https://xxxxxx.ngrok-free.app)
 
 ### 🤖 **Bước 3 — Cấu hình FE (Streamlit) và chạy**
@@ -79,7 +79,10 @@ NGROK_BACKEND_URL = "https://xxxxxx.ngrok-free.app"
 ```bash
 pip install -r requirements.txt
 ```
-4. Chạy câu lệnh `streamlit run streamlit_app.py`
+4. Chạy câu lệnh 
+```bash
+streamlit run streamlit_app.py
+```
 
 ---
 
